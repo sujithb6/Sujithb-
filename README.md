@@ -1,2 +1,2 @@
 # Sujithb-
-Description for 
+Config files for my GitHub profile.
